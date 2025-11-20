@@ -8,8 +8,9 @@
 ``` c
 prints("Hello word");
 ```
-
+- [x] Alcohol
 - [ ] Money
 - [ ] Job
 - [ ] House
+
 
